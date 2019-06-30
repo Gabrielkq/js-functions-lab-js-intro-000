@@ -18,7 +18,7 @@ function happyHolidaysTo(holiday, name){
 //happyHolidayTo("Summer Solstice", "Krystek");
 
 function holidayCountdown(holiday, days){
-  return `It's ${days} days until ${holidays}` ;
+  return `It's ${days} days until ${holiday}` ;
 }
 
 //holidayCountdown("Gabriel's birthday", 12);
