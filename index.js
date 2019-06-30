@@ -11,3 +11,6 @@ function happyHolidaysTo(name){
 
 happyHolidaysTo("Rusty");
 
+function happyHolidayTo(holiday, name){
+  
+}
