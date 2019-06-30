@@ -11,14 +11,14 @@ function happyHolidaysTo(name){
 
 //happyHolidaysTo("Rusty");
 
-function happyHolidaysTo(holiday, name){
+function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`;
 }
 
 //happyHolidayTo("Summer Solstice", "Krystek");
 
 function holidayCountdown(holiday, days){
-  return `It's ${days} days until ${holiday}` ;
+  return `It's ${days} days until ${holiday}!` ;
 }
 
 //holidayCountdown("Gabriel's birthday", 12);
