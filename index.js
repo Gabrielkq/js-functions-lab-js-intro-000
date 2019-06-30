@@ -9,16 +9,16 @@ function happyHolidaysTo(name){
   return `Happy holidays to ${name}!`;
 }
 
-happyHolidaysTo("Rusty");
+//happyHolidaysTo("Rusty");
 
 function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`;
 }
 
-happyHolidayTo("Summer Solstice", "Krystek");
+//happyHolidayTo("Summer Solstice", "Krystek");
 
 function holidayCountdown(holiday, days){
   return `It's ${days} days until ${holidays}` ;
 }
 
-holidayCountdown("Gabriel's birthday", 12);
+//holidayCountdown("Gabriel's birthday", 12);
